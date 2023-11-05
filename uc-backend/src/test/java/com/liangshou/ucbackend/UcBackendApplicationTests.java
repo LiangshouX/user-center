@@ -8,6 +8,7 @@ class UcBackendApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Null");
 	}
 
 }
